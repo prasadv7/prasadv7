@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @PRV 
-- 👀 I’m interested in QA Testing  
-- 🌱 I’m currently learning JAVA full stack web Development
+- 👋 Hi,
+- QA/Automation Engineer 
 - 💞️ I’m looking to collaborate on GrowNey Financial adviser project
 - 📫 How to reach me prasadvidhate7@gmail.com
 
